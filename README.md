@@ -4,7 +4,7 @@
 ## Features
 
 - Add new tasks
-- Mark tasks as complete/incomplete
+- Mark tasks as pending/completed 
 - Delete tasks
 - Schedule **local notifications** (60 seconds after adding a task)
 
